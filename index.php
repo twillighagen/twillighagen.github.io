@@ -7,6 +7,7 @@
     <link rel="stylesheet" href="css/main.css">
   </head>
   <body>
+    <h1> Test</h1>
     <?php
     include_once ('nav.php');
     ?>
